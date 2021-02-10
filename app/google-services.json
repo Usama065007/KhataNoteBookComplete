@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "627857315884",
+    "project_id": "khatanotebook",
+    "storage_bucket": "khatanotebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627857315884:android:bb60b53cfbdfa40fb35989",
+        "android_client_info": {
+          "package_name": "com.example.khatanotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627857315884-b66dpob2d8jhulpveppt31e06t04suh1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Y2-7ksIQSS7wt_ZNtKq1Jwj-CVQahdw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627857315884-b66dpob2d8jhulpveppt31e06t04suh1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
